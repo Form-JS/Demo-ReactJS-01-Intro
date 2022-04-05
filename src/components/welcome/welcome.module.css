@@ -1,0 +1,13 @@
+.name {
+    color: magenta;
+    font-style: oblique;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.number {
+    color: lime;
+    font-family: 'Comic sans ms';
+}
